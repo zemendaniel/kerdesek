@@ -1,8 +1,10 @@
 # Kérdések
 ## **_CSS_**
 ## Mi a css?
+cascading style sheets
 ### 
 ## Hogyan tudunk beágyazni egy css-t egy html fájlba?
+<link rel="stylesheet" href="styles.css">
 ###
 ## Hogyan tudunk css stílust definiálni egyszerre több elemre? A következő kódrészletet hogyan egészítenéd ki, hogy minden elemnek legyen egy saját piros szaggatott kerete, és zöld háttérszíne? 
 ```html 
